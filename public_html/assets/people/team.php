@@ -67,14 +67,16 @@
             'name'      => 'Jelle Schipper',
             'position'  => 'Postdoctoral Researcher',
             'photo'     => 'assets/people/team/Jelle.jpg', 
-            'shortbio'  => ' ',
+            'shortbio'  => 'I am a molecular biologist with a focus on virology and virus-host interactions. My PhD work focused on the development of live cell imaging approaches to study the dynamics of early picornavirus replication and virus-host interactions with single-molecule resolution.
+            During my postdoc I aim to combine the lab’s expertise in advanced nanoscopy and smart microscopy approaches with my own experience to study the formation and architecture of early viral replication organelles.',
             'email'     => 'jelle.schipper@scilifelab.se'
         ),
         array(
             'name'      => 'Blanca Mestre Torà',
             'position'  => 'Postdoctoral Researcher',
             'photo'     => 'assets/people/team/Blanca.jpg', 
-            'shortbio'  => ' ',
+            'shortbio'  => 'I am a physicist specialized in light-based imaging, with an interest in developing advanced microscopy techniques for resolution-enhanced imaging.
+            My research focuses on advancing 3D super-resolution microscopy by introducing new illumination methods to improve spatial and temporal resolution, enabling high-quality visualization of subcellular structures.',
             'email'     => 'blanca.mestre.tora@scilifelab.se'
         ),
         // Students
